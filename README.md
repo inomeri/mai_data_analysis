@@ -9,3 +9,4 @@
      * 4. [Валидация моделей классификации](./III_machine_learning_supervised_hw.ipynb)
      * 5. [Кластеризация](./IV_machine_learning_unsupervised_hw.ipynb)
      * 6. [Регуляризция](./V_machine_learning_tuning_hw.ipynb)
+     * 6. [ML production](./VI_machine_learning_production_hw.ipynb)
